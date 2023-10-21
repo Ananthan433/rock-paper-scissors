@@ -40,3 +40,8 @@ body {
   padding: 8px 15px;
   cursor: pointer;
 }
+
+.move-button :hover
+{
+  transform: scale(2,2);
+}
